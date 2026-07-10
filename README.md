@@ -1,4 +1,4 @@
-# UA-MT on ISIC 2018 (semi-GDA Reproduction)
+# UA-MT on ISIC 2018
 
 This repository tries to reproduce the semi-supervised skin lesion segmentation results reported in the semi-GDA paper by re-implementing **Uncertainty-Aware Mean Teacher (UA-MT)** and training/evaluating it on the **ISIC 2018 (Task 1: Lesion Boundary Segmentation)** dataset. The goal is to establish a faithful UA-MT baseline under the same low-labeled-data regime (10% labeled fraction) used in the semi-GDA study.
 
