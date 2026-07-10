@@ -16,7 +16,6 @@ This repository tries to reproduce the semi-supervised skin lesion segmentation 
 
 ## Reproduction Status
 
-Target scores reported for UA-MT in the semi-GDA paper on ISIC 2018:
 
 | Labeled Fraction | Dice  | IoU   | 95HD  |
 |-------------------|-------|-------|-------|
