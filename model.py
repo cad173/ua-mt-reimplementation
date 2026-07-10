@@ -38,8 +38,6 @@ class DownSample(nn.Module):
 
 
 class Decoder(nn.Module):
-    """Decoder stage. SSL4MIS uses NO dropout in the decoder path (all noise /
-    regularization lives in the encoder), so there is no dropout layer here."""
     def __init__(self, in_channels, out_channels):
         super(Decoder, self).__init__()
 
